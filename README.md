@@ -2,4 +2,9 @@
 archive submissions of atcorder.
 
 ## My page
-- https://kenkoooo.com/atcoder/#/user/dragn?userPageTab=Achievement
+
+- atcoder problem
+https://kenkoooo.com/atcoder/#/user/dragn?userPageTab=Achievement
+
+- atcoder
+https://atcoder.jp/users/dragn
